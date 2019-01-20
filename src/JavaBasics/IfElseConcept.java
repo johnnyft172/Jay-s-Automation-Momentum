@@ -36,13 +36,13 @@ public class IfElseConcept {
         //nested if-else
 
         if (a1 > b1 & a1 > c1){  //True & True = True,  False & False = False, False & True = False   |    & = And Operator
-            System.out.println("a1 is the truithest");
+            System.out.println("a1 is the truithest compare to the other two");
         }
         else if(b1>c1){
-            System.out.println("b1 is the truithest");
+            System.out.println("b1 is the truithest compare to c1");
         }
         else {
-            System.out.println("c1 is the truithest");
+            System.out.println("c1 is the truithest compare to other two");
         }
 
     }    //Write a logic to find out the highest number of 3 variables

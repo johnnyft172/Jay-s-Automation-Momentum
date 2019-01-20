@@ -6,8 +6,8 @@ public class TwoDimensionalArray {
 
         String x[][] = new String[3][5];
 
-        System.out.println(x.length); //3  -- total no. of rows = 3
-        System.out.println(x[0].length);  //5 --total no. of columns = 5
+        System.out.println(x.length); //3  -- total # of rows = 3
+        System.out.println(x[0].length);  //5 --total # of columns = 5
 
 
 
@@ -34,15 +34,17 @@ public class TwoDimensionalArray {
         x[2][4] = "E2";
 
 
+
         System.out.println(x[1][2]);
         System.out.println(x[2][2]);
 
         System.out.println(x[0][4]);
 
+        System.out.println("**************");
 
-        //How to print all the values of 2d array? Ans: We use 2 for loop, inner loop and outer loop. One loop is for row and the 2nd loop is for column
-        //row =0, col 0 to 4
-        //row =1 col = 0 to 4
+        //How to print all the values of 2 dimensional array? Ans: We use two for loop, inner loop and outer loop. One loop is for row and the 2nd loop is for column
+        //row =0, col = 0 to 4
+        //row =1, col = 0 to 4
         //row = 2, col = 0 to 4
 
 

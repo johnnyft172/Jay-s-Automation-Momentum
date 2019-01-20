@@ -39,7 +39,7 @@ public class FinallyConcept { //finally is a block
                 System.out.println("divide by zero error");
                 */
 
-            catch(NullPointerException e){ //Famous interview tricky question (FITQ): What will happen if you have different exception than what is expected like above block of code,
+            catch(NullPointerException e){ //Famous interview tricky question (FITO): What will happen if you have different exception than what is expected like above block of code,
                     System.out.println("Inside catch block"); //where NullPointerException instead of ArithmeticException even though in the code we are dividing by zero?
                     System.out.println("divide by zero error"); //It will run and exception will be thrown but nobody is there to catch it, and nobody is going to come inside the
                 //catch block. The core control will not come inside the catch block because we are expecting arithmetic but it is giving NullPointer.

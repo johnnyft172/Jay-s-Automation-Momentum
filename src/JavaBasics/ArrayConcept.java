@@ -6,15 +6,15 @@ public class ArrayConcept {
     public static void main (String[] args){
 
 
-        //Array: to store similar data type values in a array variable
+        //Array: to store similar data type values in an array variable
 
 
         //1. int array:
         //Lowest bound/index = 0
-        //Upper bound/index = n-1 (n is size of array)
+        //Upper bound/index = n-1 (n is the size of array)
         //THESE ARE ALL ONE DIMENSIONAL ARRAY
 
-        //Dis-advantages of Array: Size is fixed -- Static array -- To overcome this  issue, we use Collections -- ArrayList, HashTable -- we use Dynamic Array
+        //1st Dis-advantages of Array: Size is fixed -- Static array -- To overcome this  issue, we use Collections -- ArrayList, HashTable -- we use Dynamic Array
         // 2nd disadvantages of Array: stores only similar data type -- To overcome this problem, we use Object Array.
 
 
@@ -44,21 +44,22 @@ public class ArrayConcept {
         }
 
            //2. How to run double array?
-        double d[] = new double[4];
-        d[0] = 12.33;
-        d[1] = 13.44;
-        d[2] = 45.55;
-        d[3] = 67.89;
+        double k[] = new double[4];
+        k[0] = 12.33;
+        k[1] = 13.44;
+        k[2] = 45.55;
+        k[3] = 67.89;
 
-        System.out.println(d[0]);
+        System.out.println(k[2]);
 
 
-           /*//3. How to declare character array?
+           //3. How to declare character array?
 
         char c[] = new char[3];
         c[0] = 'q';
         c[1] = 2;
         c[2] = '$';
+        System.out.println(c[2]);
 
 
         //4. How to declare boolean array?
@@ -67,6 +68,8 @@ public class ArrayConcept {
         b[0] = true;
         b[1] = false;
 
+        System.out.println(b[0]);
+
 
         //5. How to declare String Array?
 
@@ -74,6 +77,8 @@ public class ArrayConcept {
         s[0] = "test";
         s[1] = "Hello";
         s[2] = "World";
+
+        System.out.println(s[1]);
 
 
         System.out.println(s.length);
@@ -94,6 +99,6 @@ public class ArrayConcept {
         System.out.println(ob[5]);
         System.out.println(ob.length);
 
-*/
+
     }
 }

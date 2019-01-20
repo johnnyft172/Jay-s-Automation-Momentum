@@ -66,10 +66,17 @@
       <change afterPath="$PROJECT_DIR$/../reBuilt/src/Galaxy/Earth7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/Earth5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/Human5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/defaultPackage/DriverInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/defaultPackage/DriverInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/StringConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/StringConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/testCases/FinalConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testCases/FinalConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/testCases/FinallyConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/testCases/FinallyConcept.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -86,8 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SingletonPatternPractice/Singleton.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+            <state relative-caret-position="779">
+              <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -95,8 +111,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/defaultPackage/DriverInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#350#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,17 +123,47 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/testCases/FinalConcept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
+            <state relative-caret-position="165">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/JavaBasics/StringConcept.java">
+        <entry file="file://$PROJECT_DIR$/src/JavaBasics/ConstructorConcept.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="136" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
+            <state relative-caret-position="209">
+              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testCases/FinalizeConcept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+              <folding>
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testCases/FinallyConcept.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="795">
+              <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -134,15 +183,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/MethodOverLoading.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java" />
         <option value="$PROJECT_DIR$/src/OOPConceptPart1/Car.java" />
         <option value="$PROJECT_DIR$/src/OOPConceptPart1/FunctionsInJava.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/StaticAndNonStaticConcept.java" />
         <option value="$PROJECT_DIR$/src/OOPConceptPart1/StaticAndNonStaticConcept.java" />
         <option value="$PROJECT_DIR$/src/OOPConceptPart1/WrapperClassConcept.java" />
@@ -153,20 +196,28 @@
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/Employee.java" />
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/LinkedListConcept.java" />
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/HashMapConcept.java" />
-        <option value="$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java" />
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/HashTableConcept.java" />
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/ArrayListConcept.java" />
         <option value="$PROJECT_DIR$/src/CollectionFrameworkInJava/testCases/FinalConcept.java" />
         <option value="$PROJECT_DIR$/src/testPackage/ChildClass.java" />
         <option value="$PROJECT_DIR$/src/testPackage/ParentClass.java" />
         <option value="$PROJECT_DIR$/src/testCases/FinalizeConcept.java" />
-        <option value="$PROJECT_DIR$/src/testCases/FinallyConcept.java" />
         <option value="$PROJECT_DIR$/src/SingletonPatternPractice/SingletonConcept.java" />
         <option value="$PROJECT_DIR$/src/SingletonPatternPractice/Singleton.java" />
         <option value="$PROJECT_DIR$/src/defaultPackage/driverinit.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java" />
         <option value="$PROJECT_DIR$/src/defaultPackage/DriverInit.java" />
-        <option value="$PROJECT_DIR$/src/testCases/FinalConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/StringConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java" />
+        <option value="$PROJECT_DIR$/src/testCases/FinallyConcept.java" />
+        <option value="$PROJECT_DIR$/src/testCases/FinalConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/ConstructorConcept.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/Car.java" />
       </list>
     </option>
   </component>
@@ -246,7 +297,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547923777890" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548015598587" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -261,13 +312,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringConcept">
-    <configuration name="FinalConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCases.FinalConcept" />
+  <component name="RunManager" selected="Application.Car">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.Car" />
       <module name="NaveenAutomationLabGO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCases.*" />
+          <option name="PATTERN" value="JavaBasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +326,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalizeConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCases.FinalizeConcept" />
+    <configuration name="ConstructorConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.ConstructorConcept" />
       <module name="NaveenAutomationLabGO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCases.*" />
+          <option name="PATTERN" value="JavaBasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,25 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinallyConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testCases.FinallyConcept" />
+    <configuration name="StringConcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.StringConcatenation" />
       <module name="NaveenAutomationLabGO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testCases.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Singleton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonPatternPractice.Singleton" />
-      <module name="NaveenAutomationLabGO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SingletonPatternPractice.*" />
+          <option name="PATTERN" value="JavaBasics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,13 +365,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.TwoDimensionalArray" />
+      <module name="NaveenAutomationLabGO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.ConstructorConcept" />
+        <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.StringConcept" />
-        <item itemvalue="Application.Singleton" />
-        <item itemvalue="Application.FinalizeConcept" />
-        <item itemvalue="Application.FinallyConcept" />
-        <item itemvalue="Application.FinalConcept" />
+        <item itemvalue="Application.StringConcatenation" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +401,15 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="958" extended-state="0" />
     <editor active="true" />
@@ -361,17 +421,17 @@
       <window_info id="Image Layers" order="4" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49924126" visible="true" weight="0.16727717" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.30023095" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.13625866" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.3290993" />
-      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.3290993" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.23903002" />
+      <window_info active="true" anchor="bottom" id="Find" order="5" visible="true" weight="0.3290993" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.22055428" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3995381" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3290993" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -383,27 +443,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/NumberFormatException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -431,13 +470,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOPConceptPart1/FunctionsInJava.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -455,13 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaBasics/ArrayListConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -473,13 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-58">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -546,30 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCases/FinalizeConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
-          <folding>
-            <element signature="e#131#132#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCases/FinallyConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/OOPConceptPart1/WrapperClassConcept.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -592,27 +586,6 @@
             <element signature="e#123#124#0" expanded="true" />
             <element signature="e#298#299#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingletonPatternPractice/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/defaultPackage/DriverInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/testCases/FinalConcept.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="88" selection-start-line="7" selection-start-column="88" selection-end-line="7" selection-end-column="88" />
         </state>
       </provider>
     </entry>
@@ -657,10 +630,114 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/IfElseConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/IncrementAndDecerementOperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="20" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/defaultPackage/DriverInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#350#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/LocalVsGlobalVariables.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="93" selection-start-line="14" selection-start-column="93" selection-end-line="14" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/LoopsConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="51" column="29" lean-forward="true" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/StringConcatenation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="47" column="53" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingletonPatternPractice/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaBasics/StringConcept.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="136" selection-start-line="8" selection-start-column="136" selection-end-line="8" selection-end-column="136" />
+        <state relative-caret-position="330">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/TwoDimensionalArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/ArrayConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCases/FinallyConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCases/FinalizeConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="51" selection-start-line="4" selection-start-column="51" selection-end-line="4" selection-end-column="51" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testCases/FinalConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/ConstructorConcept.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>

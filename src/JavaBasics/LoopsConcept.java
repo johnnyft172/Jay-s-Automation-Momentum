@@ -5,17 +5,18 @@ public class LoopsConcept {
     public static void main(String[] args) {
 
         //1. While loop:
-        //Disadvantage of while loop: it will generate infinite loop if you don't give incremental/decremental part
+        //Disadvantage of while loop: it will generate infinite amount of loop if you don't give incremental/decremental limit
         //Print 1 to 10
 
-        int i = 1; //Initialization
-        while (i <= 10) {  //Conditional
+        /*int i = 1; //Initialization
+        while (i <= 10) {  //Conditional -is TRUE so run the loop again by increment/decrement until condition is false
             System.out.println(i);
             i = i + 1; //Incremental or Decremental
         }
 
 
-        System.out.println("*******************");
+
+      System.out.println("*******************");
 
         //j++ or  j = j+1  ...  Either one works
 
@@ -24,10 +25,11 @@ public class LoopsConcept {
         for (int j = 1; j <= 10; j++) { //Initialization, conditional, finally incremental part
             System.out.println(j);
 
-        }
+        }*/
 
 
-        System.out.println("*******************");
+
+  /*      System.out.println("*******************");
 
 
         //print 10 to 1
@@ -36,6 +38,7 @@ public class LoopsConcept {
         for (int k = 10; k >= 1; k--) {
             System.out.println(k);
         }
+*/
 
         System.out.println("*******************");
 
@@ -51,5 +54,5 @@ public class LoopsConcept {
 
         }
     }
-
 }
+

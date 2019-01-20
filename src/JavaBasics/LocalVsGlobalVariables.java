@@ -12,7 +12,7 @@ public class LocalVsGlobalVariables {
         System.out.println(i); //Can be called directly without instantiating it
 
         LocalVsGlobalVariables obj = new LocalVsGlobalVariables();
-        System.out.println(obj.name);  //If you try to print variable name from class variable it will give you error cuz those are also global variables
+        System.out.println(obj.name);  //If you try to print variable name from class(global) variable it will give you error cuz those are also global variables
         System.out.println(obj.age);
         //So to access global variable that are NON-STATIC then we have to create an object of their class which is NaveensLovalVsGlobalVariables, so instantiate this class
     }
