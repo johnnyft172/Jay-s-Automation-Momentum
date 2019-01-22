@@ -27,11 +27,14 @@ public class ExceptionHandling {
         try{
             int i = 9/0; //This code will throw an exceptioon
         }
-        catch(ArithmeticException e) {
+        //catch(ArithmeticException e) {
+            //catch(Error e){ //if expecting error
+            //catch(Throwable e) { //This super class directly catch both error and exception || **IQ: What is SUPER CLASS of Error & Exceptions? Ans: Throwable e
+            catch(Exception e) { //just Exception will cover all different types of exception when you are not sure
             e.printStackTrace(); //Without printStackTrace it will not show the Exception although it will handle it and continue
             System.out.println(e.getMessage());           // to run the program so print what is in print line statement
-            //getMessage method shows the reason: /by zero
-            System.out.println("Hey this erro cuz of # / by zero or what ever I want to type in catch");
+            //getMessage method shows the reason: // divded by zero
+            System.out.println("Hey this error cuz of # / by zero or what ever I want to type in catch");
         }
 
         //try & catch block is ALSO used to report exception, pin pointing where is the excetion, what line of code

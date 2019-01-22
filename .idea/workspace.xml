@@ -38,6 +38,7 @@
       <change afterPath="$PROJECT_DIR$/../KingArmy/src/ArchType/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../KingArmy/src/ArchType/WarriorsHisArmy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../LoveHardShit/src/FirstThingFirst/DoTheHardestThingFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JavaBasics/ThrowsKeywordExceptionHandling.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PeepsAndEarth/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PeepsAndEarth/src/Universe/Earth.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PeepsAndEarth/src/Universe/Human7.java" afterDir="false" />
@@ -67,6 +68,10 @@
       <change afterPath="$PROJECT_DIR$/../untitled/src/Earth5.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../untitled/src/Human5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NaveenAutomationLabGO/JavaBasics/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NaveenAutomationLabGO/JavaBasics/ExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NaveenAutomationLabGO/JavaBasics/ThrowsKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaBasics/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JavaBasics/ThrowsKeyword.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,11 +85,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/JavaBasics/ExceptionHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="34" column="116" selection-start-line="34" selection-start-column="116" selection-end-line="34" selection-end-column="116" />
+            <state relative-caret-position="608">
+              <caret line="32" column="115" selection-start-line="32" selection-start-column="115" selection-end-line="32" selection-end-column="115" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/JavaBasics/ThrowsKeywordExceptionHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JavaBasics/ThrowKeywordExceptionHandling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -141,6 +164,9 @@
         <option value="$PROJECT_DIR$/src/JavaBasics/CarConstructorConcept.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/ConstructorConcept.java" />
         <option value="$PROJECT_DIR$/src/JavaBasics/ExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/ThrowsKeyword.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/ThrowsKeywordExceptionHandling.java" />
+        <option value="$PROJECT_DIR$/src/JavaBasics/ThrowKeywordExceptionHandling.java" />
       </list>
     </option>
   </component>
@@ -220,7 +246,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548096055010" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548117922008" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -235,20 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExceptionHandling">
-    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasics.Car" />
-      <module name="NaveenAutomationLabGO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaBasics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThrowKeywordExceptionHandling">
     <configuration name="CarConstructorConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaBasics.CarConstructorConcept" />
       <module name="NaveenAutomationLabGO" />
@@ -288,8 +301,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaBasics.TwoDimensionalArray" />
+    <configuration name="ThrowKeywordExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.ThrowKeywordExceptionHandling" />
+      <module name="NaveenAutomationLabGO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaBasics.ThrowsKeyword" />
       <module name="NaveenAutomationLabGO" />
       <extension name="coverage">
         <pattern>
@@ -303,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThrowKeywordExceptionHandling" />
         <item itemvalue="Application.ExceptionHandling" />
+        <item itemvalue="Application.ThrowsKeyword" />
         <item itemvalue="Application.CarConstructorConcept" />
         <item itemvalue="Application.ConstructorConcept" />
-        <item itemvalue="Application.Car" />
-        <item itemvalue="Application.TwoDimensionalArray" />
       </list>
     </recent_temporary>
   </component>
@@ -660,8 +686,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/JavaBasics/ExceptionHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="34" column="116" selection-start-line="34" selection-start-column="116" selection-end-line="34" selection-end-column="116" />
+        <state relative-caret-position="608">
+          <caret line="32" column="115" selection-start-line="32" selection-start-column="115" selection-end-line="32" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/ThrowsKeywordExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JavaBasics/ThrowKeywordExceptionHandling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="32" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
         </state>
       </provider>
     </entry>
